@@ -14,8 +14,6 @@ Currently, I have two projects on GitHub from my time at bootcamp:
 - A solo project built during the final weeks to showcase my end-to-end development skills
 - A collaborative group project built with a small team during the course
 
-I'm also working on new projects to demonstrate my skills in real-world scenarios — stay tuned!
-
 ## 🧰 Tech Stack
 
 - **Languages:** JavaScript, HTML, CSS
